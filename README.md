@@ -17,6 +17,6 @@
  <br/>
 🧐 My [email](mailto:alex.bortnitskiy@gmail.com) <br/>
 🧐 My [Telegram](t.me/allexis7)
-
+ <br/>
 > “Talent itself is cheaper than table salt. There is only one thing that distinguishes a successful person from a talented one - a lot of hard work. " <br/>
 > ***Stephen King***
