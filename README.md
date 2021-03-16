@@ -11,12 +11,11 @@
 ![HTML](https://camo.githubusercontent.com/7ee985b72550da31d0ba91bf068f433f761dba9f90efe8f8102ffd851ce5e166/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35)
 ![CSS](https://camo.githubusercontent.com/16c50c96d49a2263de9fc316615341af0ef1aeae5dd7753638c0b5d4f815d14c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333)
 ![SASS](https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&logo=sass)
-
+ <br/>
 
 ---- Contacts ---- 
-
-🧐 My [email](mailto:alex.bortnitskiy@gmail.com)
-
+ <br/>
+🧐 My [email](mailto:alex.bortnitskiy@gmail.com) <br/>
 🧐 My [Telegram](t.me/allexis7)
 
 > “Talent itself is cheaper than table salt. There is only one thing that distinguishes a successful person from a talented one - a lot of hard work. " <br/>
