@@ -1,8 +1,8 @@
-# Hi, my name is **Alexey Bortnitskyi**! ✌
+# ✌ Hi, my name is **Alexey Bortnitskyi**! ✌
 # I'm a beginner *Front-end Developer* from Kiev.
 ### My website [taplink >> JUST FOR TELEPHONE](http://www.webshark.design/)
 ## My [Instagram](https://www.instagram.com/webshark.dev/) profile
-## Languages and Technologies
+# Languages and Technologies
 ![JavaScript](https://camo.githubusercontent.com/f5a4977b3c10ea6a3ef87a3c51e61a1c201a895c99a6c9c74a9d3efe508cd8bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074)
 ![React](https://camo.githubusercontent.com/3fdfe4bbd316e7b1faff3c5e68c49a9eb345536c6629208d1838ab3b5226c95f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163744a732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374)
 ![REDUX](https://camo.githubusercontent.com/9f26f7e3ea9c5376fd255ee200fd783e4286ddf774a02c98a32edd96ef8c0859/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d5265647578)
@@ -13,9 +13,10 @@
 ![SASS](https://img.shields.io/badge/SASS-ffffff?style=for-the-badge&logo=sass)
 
 
-##My [email](mailto:alex.bortnitskiy@gmail.com)
+# ---- Contacts ---- 
 
-##My [Telegram](t.me/allexis7)
+#🧐 My [email](mailto:alex.bortnitskiy@gmail.com)
+#🧐 My [Telegram](t.me/allexis7)
 
 > “Talent itself is cheaper than table salt. There is only one thing that distinguishes a successful person from a talented one - a lot of hard work. "
 > ***Stephen King***
