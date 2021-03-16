@@ -19,5 +19,5 @@
 
 🧐 My [Telegram](t.me/allexis7)
 
-> “Talent itself is cheaper than table salt. There is only one thing that distinguishes a successful person from a talented one - a lot of hard work. "
+> “Talent itself is cheaper than table salt. There is only one thing that distinguishes a successful person from a talented one - a lot of hard work. " <br/>
 > ***Stephen King***
