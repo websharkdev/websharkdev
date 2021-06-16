@@ -1,10 +1,5 @@
 ![cover](https://github.com/websharkdev/websharkdev/blob/main/Frame%201.png?raw=true)  <br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=blood" />
-</p>
-
- <br/>
+<br/>
 # Hi there! My name Alexey 🦈  <br/>
 I'm a beginner *Front-end Developer* from Kiev.
 # Languages and Technologies
@@ -26,3 +21,7 @@ My [Telegram](t.me/allexis7)
 #
 > “Talent itself is cheaper than table salt. There is only one thing that distinguishes a successful person from a talented one - a lot of hard work. " <br/>
 > ***Stephen King***
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=blood" />
+</p>
