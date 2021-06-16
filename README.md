@@ -1,6 +1,9 @@
 ![cover](https://github.com/websharkdev/websharkdev/blob/main/Frame%201.png?raw=true)  <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=websharkdev)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=graywhite)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=blood" />
+</p>
+
  <br/>
 # Hi there! My name Alexey 🦈  <br/>
 I'm a beginner *Front-end Developer* from Kiev.
