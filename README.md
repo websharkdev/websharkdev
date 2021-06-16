@@ -1,5 +1,5 @@
 ![cover](https://github.com/websharkdev/websharkdev/blob/main/Frame%201.png?raw=true)  <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=websharkdev)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=websharkdev)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=graywhite)
  <br/>
 # Hi there! My name Alexey 🦈  <br/>
