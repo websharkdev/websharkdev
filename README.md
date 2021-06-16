@@ -1,5 +1,6 @@
 # ✌ Hi, my name is **Alexey Bortnitskyi**! ✌ 
 # ![github-hero](https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=tokyonight)
+# ![github-hero](https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=tokyonight)
 ### I'm a beginner *Front-end Developer* from Kiev.
 # My website [taplink](http://www.webshark.design/) >> just for PHONE
 # My [Instagram](https://www.instagram.com/webshark.dev/) profile
