@@ -15,12 +15,11 @@ I'm a beginner *Front-end Developer* from Kiev.
 
 ---- Contacts ---- 
  <br/>
-My website [taplink](http://www.webshark.design/) >> just for PHONE and my [Instagram](https://www.instagram.com/webshark.dev/) profile  <br/>
+My website [taplink](http://www.webshark.design/) >> just for PHONE <br/>
+[Instagram](https://www.instagram.com/webshark.dev/) profile  <br/>
 My [email](mailto:alex.bortnitskiy@gmail.com) <br/>
 My [Telegram](t.me/allexis7)
-#
-> “Talent itself is cheaper than table salt. There is only one thing that distinguishes a successful person from a talented one - a lot of hard work. " <br/>
-> ***Stephen King***
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=blood" />
