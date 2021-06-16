@@ -15,7 +15,7 @@
 
 ---- Contacts ---- 
  <br/>
-My website [taplink](http://www.webshark.design/) >> just for PHONE and my [Instagram](https://www.instagram.com/webshark.dev/) profile
+My website [taplink](http://www.webshark.design/) >> just for PHONE and my [Instagram](https://www.instagram.com/webshark.dev/) profile  <br/>
 My [email](mailto:alex.bortnitskiy@gmail.com) <br/>
 My [Telegram](t.me/allexis7)
 #
