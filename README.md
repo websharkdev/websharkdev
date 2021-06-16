@@ -1,5 +1,6 @@
 # ![cover](https://github.com/websharkdev/websharkdev/blob/main/Frame%201.png?raw=true)
-# ![github-hero](https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=graywhite) ![github-hero](https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=graywhite)
+# ![github-hero](https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=graywhite) 
+![github-hero](https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=graywhite)
 # Hi there! My name Alexey 🦈
 ## I'm a beginner *Front-end Developer* from Kiev.
 # Languages and Technologies
