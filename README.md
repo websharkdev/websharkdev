@@ -1,6 +1,6 @@
 # ✌ Hi, my name is **Alexey Bortnitskyi**! ✌
 ### I'm a beginner *Front-end Developer* from Kiev.
-### My website [taplink](http://www.webshark.design/) >> just for PHONE
+# My website [taplink](http://www.webshark.design/) >> just for PHONE
 # My [Instagram](https://www.instagram.com/webshark.dev/) profile
 # Languages and Technologies
 ![JavaScript](https://camo.githubusercontent.com/f5a4977b3c10ea6a3ef87a3c51e61a1c201a895c99a6c9c74a9d3efe508cd8bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074)
