@@ -1,4 +1,4 @@
-                                         # Hi there! My name Alexey 🦈  <br/>
+<p align="center">Hi there! My name Alexey 🦈</p>  <br/>
 ![cover](https://github.com/websharkdev/websharkdev/blob/main/Frame%201.png?raw=true)  <br/>
 I'm a beginner *Front-end Developer* from Kiev.
 # Languages and Technologies
