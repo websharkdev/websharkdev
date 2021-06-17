@@ -13,7 +13,7 @@ My [website](http://www.webshark.design/) <br/>
 [Email](mailto:alex.bortnitskiy@gmail.com) <br/>
 [Telegram](t.me/allexis7)
 
-<a href="t.me/allexis7" style="height: 50px; width: 50px"><img src="https://image.flaticon.com/icons/png/512/2111/2111646.png"/></a>
+<a href="https:/t.me/allexis7" style="width: 50px"><img src="https://image.flaticon.com/icons/png/512/2111/2111646.png"/></a>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
