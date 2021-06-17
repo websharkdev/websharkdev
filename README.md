@@ -1,4 +1,4 @@
-<p align="center">Hi there! My name Alexey 🦈</p>  <br/>
+<h1 align="center">Hi there! My name Alexey 🦈</h1>  <br/>
 <img src="https://github.com/websharkdev/websharkdev/blob/main/Frame%201.png?raw=true"/>
 I'm a beginner *Front-end Developer* from Kiev.
 # Languages and Technologies
