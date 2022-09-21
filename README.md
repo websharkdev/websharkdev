@@ -20,4 +20,5 @@ I'm a beginner *Front-end Developer* from Kiev.
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=blood" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websharkdev&layout=compact" />
 </p>
