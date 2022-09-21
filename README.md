@@ -1,8 +1,7 @@
 <h1 align="center">Hi there! My name Alexey 🦈</h1>  <br/>
 <img src="https://i.ibb.co/QNSRsQg/Frame-11.png"/>
 
-<h2>I'm a <b>Front-end React Developer</b> from Ukraine.</h2>
-<h6>Now I'm living in Spain</h6>
+<h2 align="center">I'm a <b>Front-end React Developer</b> from Ukraine.</h2>
 
 <h3> Languages and Technologies </h3>
 
