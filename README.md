@@ -18,8 +18,8 @@
  <br/>
 
 <a href="https://www.instagram.com/webshark.dev/"><img src="https://img.shields.io/badge/INSTAGRAM-262626?style=for-the-badge&logo=instagram"/></a>
-<a href="mailto:alex.bortnitskiy@gmail.com"><img src="https://img.shields.io/badge/GMAIL-262626?style=for-the-badge&logo=gmail"/></a>
-<a href="https://t.me/allexis7"><img src="https://img.shields.io/badge/TELEGRAM-262626?style=for-the-badge&logo=telegram"/></a>
+<a href="mailto:alexey.bortnytskyi@gmail.com"><img src="https://img.shields.io/badge/GMAIL-262626?style=for-the-badge&logo=gmail"/></a>
+<a href="https://t.me/websharkdev"><img src="https://img.shields.io/badge/TELEGRAM-262626?style=for-the-badge&logo=telegram"/></a>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
