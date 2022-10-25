@@ -22,7 +22,7 @@ My name is **Oleksii**. I'm front-end developer. I help companies, brands and en
 <a href="https://t.me/websharkdev"><img src="https://img.shields.io/badge/TELEGRAM-262626?style=for-the-badge&logo=telegram"/></a>
 
 <p align="center">
-  <img width="calc(50% - 4px)" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
-  <img width="calc(50% - 4px)" src="https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=blood" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websharkdev&layout=compact" />
+  <img style={width: 'calc(50% - 4px)'} src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
+  <img style={width: 'calc(50% - 4px)'} src="https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=blood" />
+  <img style={width: 'calc(50% - 4px)'} src="https://github-readme-stats.vercel.app/api/top-langs/?username=websharkdev&layout=compact" />
 </p>
