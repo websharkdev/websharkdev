@@ -17,11 +17,9 @@ My name is **Oleksii**. I'm front-end developer. I help companies, brands and en
 <div></div>
 <br/>
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-262626?style=for-the-badge&logo=instagram)](https://www.instagram.com/webshark.dev/)
-
-[![Gmail](https://img.shields.io/badge/GMAIL-262626?style=for-the-badge&logo=gmail)](mailto:alexey.bortnytskyi@gmail.com)
-
-[![Gmail](https://img.shields.io/badge/TELEGRAM-262626?style=for-the-badge&logo=telegram)](https://t.me/websharkdev)
+<a href="https://www.instagram.com/webshark.dev/"><img src="https://img.shields.io/badge/INSTAGRAM-262626?style=for-the-badge&logo=instagram"/></a>
+<a href="mailto:alexey.bortnytskyi@gmail.com"><img src="https://img.shields.io/badge/GMAIL-262626?style=for-the-badge&logo=gmail"/></a>
+<a href="https://t.me/websharkdev"><img src="https://img.shields.io/badge/TELEGRAM-262626?style=for-the-badge&logo=telegram"/></a>
 
 <p align="center">
   <img width="calc(50% - 4px)" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
