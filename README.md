@@ -1,7 +1,6 @@
-<h1 align="center">Hi there! My name Alexey 🦈</h1>  <br/>
 <img src="https://i.ibb.co/QNSRsQg/Frame-11.png"/>
 
-<h2 align="center">I'm a <b>Front-end React Developer</b> from Ukraine.</h2>
+<h2>I'm a <b>Front-end React Developer</b> from Irpin, Ukraine.</h2>
 
 <h3> Languages and Technologies </h3>
 
@@ -12,10 +11,10 @@
 <div></div>
  <br/>
 
----- Contacts ---- 
+<h3>---- Contacts ----</h3>
 
 <div></div>
- <br/>
+<br/>
 
 <a href="https://www.instagram.com/webshark.dev/"><img src="https://img.shields.io/badge/INSTAGRAM-262626?style=for-the-badge&logo=instagram"/></a>
 <a href="mailto:alexey.bortnytskyi@gmail.com"><img src="https://img.shields.io/badge/GMAIL-262626?style=for-the-badge&logo=gmail"/></a>
