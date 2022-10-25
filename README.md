@@ -1,8 +1,9 @@
-<img src="https://i.ibb.co/QNSRsQg/Frame-11.png"/>
+[![SWUbanner](https://i.ibb.co/QNSRsQg/Frame-11.png)](https://github.com/websharkdev)
 
-<h2>I'm a <b>Front-end React Developer</b> from Irpin, Ukraine.</h2>
+My name is **Oleksii**. I'm front-end developer. I help companies, brands and entrepreneurs develop any digital products and achieve their goals.
 
-<h3> Languages and Technologies </h3>
+
+### // Languages and Technologies
 
 <div style="display: flex">
 
@@ -11,17 +12,19 @@
 <div></div>
  <br/>
 
-<h3>---- Contacts ----</h3>
+### // Contacts
 
 <div></div>
 <br/>
 
-<a href="https://www.instagram.com/webshark.dev/"><img src="https://img.shields.io/badge/INSTAGRAM-262626?style=for-the-badge&logo=instagram"/></a>
-<a href="mailto:alexey.bortnytskyi@gmail.com"><img src="https://img.shields.io/badge/GMAIL-262626?style=for-the-badge&logo=gmail"/></a>
-<a href="https://t.me/websharkdev"><img src="https://img.shields.io/badge/TELEGRAM-262626?style=for-the-badge&logo=telegram"/></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-262626?style=for-the-badge&logo=instagram)](https://www.instagram.com/webshark.dev/)
+
+[![Gmail](https://img.shields.io/badge/GMAIL-262626?style=for-the-badge&logo=gmail)](mailto:alexey.bortnytskyi@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/TELEGRAM-262626?style=for-the-badge&logo=telegram)](https://t.me/websharkdev)
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=blood" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websharkdev&layout=compact" />
+  <img width="calc(50% - 4px)" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood" />
+  <img width="calc(50% - 4px)" src="https://github-readme-streak-stats.herokuapp.com/?user=websharkdev&theme=blood" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websharkdev&layout=compact" />
 </p>
