@@ -6,7 +6,7 @@ ___
 My name is **Oleksii**. I'm front-end developer. I help companies, brands and entrepreneurs develop any digital products and achieve their goals. The projects you will find on this profile are just random things I've built at one point or another to make my life easier. Hopefully they can be useful to you as well.
 
 - To see the list of my most popular projects, [visit my website](https://webshark-react-portfolio.vercel.app/).
-- Get my [CV](https://www.notion.so/CV-d9f17ad32676467f895a71b48974b6ae).
+- Get my [CV](https://www.notion.so/CV-09a723ec7a6a44ffa5c5dff8a3ee3f23?pvs=4).
 
 ___
 
