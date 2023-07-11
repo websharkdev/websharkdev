@@ -22,6 +22,8 @@ ___
 
 ### // Repository stats
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <img height="135px" src="https://github-readme-stats.vercel.app/api?username=websharkdev&show_icons=true&theme=blood&include_all_commits=true&count_private=true&line_height=21">
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=websharkdev&theme=blood&layout=compact&langs_count=4">
