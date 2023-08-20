@@ -17,7 +17,7 @@ ___
 
 ### // Contacts
 
-[![Instagram](https://img.shields.io/badge/instagram-262626?style=for-the-badge&logo=instagram)](https://www.instagram.com/webshark.dev/) [![Gmail](https://img.shields.io/badge/gmail-262626?style=for-the-badge&logo=gmail)](mailto:alexey.bortnytskyi@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-262626?style=for-the-badge&logo=Telegram)](https://www.instagram.com/webshark.dev/)
+[![Instagram](https://img.shields.io/badge/instagram-262626?style=for-the-badge&logo=instagram)](https://www.instagram.com/webshark.dev/) [![Gmail](https://img.shields.io/badge/gmail-262626?style=for-the-badge&logo=gmail)](mailto:alexey.bortnytskyi@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-262626?style=for-the-badge&logo=Telegram)](https://t.me/websharkdev)
 ___
 
 ### // Repository stats
