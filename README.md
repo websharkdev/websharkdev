@@ -1,6 +1,9 @@
 [![SWUbanner](https://i.ibb.co/92pM7GK/GH-Cover.png)](https://github.com/websharkdev)
 ___
-#### Hey there <img height="16px" src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif"> 
+
+####  Greetings
+
+Hey there <img height="16px" src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif"> 
 
 I'm **Oleksii Bortnytskyi** . I specialize in front-end **React** development, with a particular focus on creating engaging animations and micro-interactions. Using technologies like React, TypeScript, CSS, and WebGL, I bring websites to life with captivating visual experiences.
 
