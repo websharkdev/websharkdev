@@ -1,11 +1,8 @@
 [![SWUbanner](https://i.ibb.co/92pM7GK/GH-Cover.png)](https://github.com/websharkdev)
 ___
+#### Hey there <img height="16px" src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif"> 
 
-#### Hi there 
-
-<img height="16px" src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif"> 
-
-I'm **Oleksii**, a front-end developer. I specialize in creating impactful digital experiences for companies, brands, and entrepreneurs. With my expertise, I can help you bring your ideas to life and accomplish your objectives. 
+I'm **Oleksii Bortnytskyi** . I specialize in front-end **React** development, with a particular focus on creating engaging animations and micro-interactions. Using technologies like React, TypeScript, CSS, and WebGL, I bring websites to life with captivating visual experiences.
 
 - To see the list of my most popular projects, [visit my website](https://webshark.design/).
 - Get my [CV](https://webshark.notion.site/CV-bc75484ca7b1458eb7f0cab21e7e74ef).
