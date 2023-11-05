@@ -1,7 +1,7 @@
 [![SWUbanner](https://i.ibb.co/92pM7GK/GH-Cover.png)](https://github.com/websharkdev)
 ___
 
-<img height="64px" src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif"> Hi there
+##<img height="32px" src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif"> Hi there
 
 I'm **Oleksii**, a front-end developer. I specialize in creating impactful digital experiences for companies, brands, and entrepreneurs. With my expertise, I can help you bring your ideas to life and accomplish your objectives. 
 
