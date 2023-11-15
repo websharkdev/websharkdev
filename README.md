@@ -3,7 +3,7 @@ ___
 
 ####  Greetings
 
-Hey there <img style='height: 24px; width: 24px; aspect-radio: 1/1; object-fit: contain;' src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif"> 
+Hey there <img style='width: 24px; aspect-radio: 1/1; object-fit: contain;' src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif"> 
 
 I'm **Oleksii Bortnytskyi** . I specialize in front-end **React** development, with a particular focus on creating engaging animations and micro-interactions. Using technologies like React, TypeScript, CSS, and WebGL, I bring websites to life with captivating visual experiences.
 
