@@ -1,1 +1,1 @@
-[![SWUbanner](https://i.ibb.co/JTxtRfM/Github-Hero-2.png)](https://github.com/websharkdev)
+[![SWUbanner](https://i.ibb.co/s0MpqsB/github-hero.png)](https://github.com/websharkdev)
